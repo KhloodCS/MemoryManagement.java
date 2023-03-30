@@ -1,5 +1,5 @@
 /*CPCS361 project part 1(Memory Management-Main Memory).. Group 19
-Khlood Alsofyani-1906275, Bashayer Alsulami-1910809, Amnah Zaid Hammad-2006854, Asal Alghamdi-.
+Khlood Alsofyani
 Compiler name: NetBeans IDE 8.2
 Operating System: Windows 11
 ------------------------------------------------------*/
